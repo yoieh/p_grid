@@ -1,4 +1,4 @@
-from grid import get_tile
+from p_grid import get_tile
 
 def test_get_tile():
     grid = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]

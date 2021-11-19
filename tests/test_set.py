@@ -1,4 +1,4 @@
-from grid import set_tile
+from p_grid import set_tile
 
 
 def test_set_tile():
